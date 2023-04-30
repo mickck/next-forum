@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  list-style: none;
+}
+.list-bg {
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+.list-item {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 5px;
+  box-shadow: rgb(224, 224, 224) 0px 2px 4px 0px;
+}
+
+.list-item h4 {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.list-item p {
+  color: grey;
+  margin: 5px 0px;
+}
